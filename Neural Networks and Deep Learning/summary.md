@@ -23,6 +23,8 @@ the layer will be computing the same thing as other neurons: **initial weights s
 
 7. **Weight Dimension**:![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/w1weightdimen.PNG)
 
-8. Forward Function ![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/W1Forward.PNG)
+8. **Forward Function**:
+
+![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/W1Forward.PNG)
 
 
