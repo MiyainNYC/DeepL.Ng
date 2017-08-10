@@ -5,12 +5,13 @@
  - Understand the key parameters in a neural network's architecture 
 ----------------------------
 **Hightlights**
+![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/w11.png)
 
 1. **np.dot(a,b)** performs a matrix multiplication on a and b, whereas **a*b"** performs an element-wise multiplication.
 
 2. A neuron computes a linear function (z = Wx + b) followed by an activation function
 
-3. Logistic Loss: ![Alt text](https://github.com/MiyainNYC/Green-cab-ridership/blob/master/charts/methodology.png)
+3. Logistic Loss: ![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/W1lossf.PNG)
 
 4. The tanh activation usually works better than sigmoid activation function for hidden units because the mean of its output is closer to zero, and so it centers the data better for the next layer.
 
@@ -20,5 +21,8 @@ the layer will be computing the same thing as other neurons: **initial weights s
 
 6. **hyperparameters**: number of iterations; learning rate α; number of layers L in the neural network; size of the hidden layers;
 
-7. **Weight Dimension**:
+7. **Weight Dimension**:![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/w1weightdimen.PNG)
+
+8. Forward Function ![Alt text](https://github.com/MiyainNYC/DeepL.Ng/blob/master/Neural%20Networks%20and%20Deep%20Learning/pics/W1Forward.PNG)
+
 
